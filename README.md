@@ -1,6 +1,6 @@
 # ESFERAS OCAS HÍBRIDAS DE CARBONO E DISSULFETO DE MOLIBDÊNIO SUPORTADAS POR PAPEL PIROLISADO PARA ATIVIDADE CATALÍTICA EM PRODUÇÃO E ARMAZENAMENTO DE HIDROGÊNIO VERDE
 
-![Nanocompósito](IMAGENS/HCS@MoS2.png)
+# ![Nanocompósito](IMAGENS/HCS@MoS2.png)
 
 **Projeto Final** do curso de **Bacharelado em Ciência e Tecnologia** na **Ilum - Escola de Ciência**, integrada ao **Centro Nacional de Pesquisa em Energia e Materiais (CNPEM)**.
 
