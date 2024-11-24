@@ -1,0 +1,628 @@
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+ Summary Report
+
+
+                            Surface Area
+
+  Single point surface area at P/Po = 0.199155893:    103.6835 m²/g  
+                                                                     
+                                 BET Surface Area:    108.5982 m²/g  
+                                                                     
+                            Langmuir Surface Area:    150.2437 m²/g  
+                                                                     
+                     t-Plot External Surface Area:    115.0164 m²/g  
+                                                                     
+  BJH Adsorption cumulative surface area of pores                    
+         between 17.000 Å and 3000.000 Å diameter:    134.182 m²/g   
+                                                                     
+  BJH Desorption cumulative surface area of pores                    
+         between 17.000 Å and 3000.000 Å diameter:    157.9910 m²/g  
+                                                                     
+
+                                Pore Volume
+
+   Single point adsorption total pore volume of pores                      
+  less than 1084.247 Å diameter at P/Po = 0.981812905:    0.222667 cm³/g   
+                                                                           
+   Single point desorption total pore volume of pores                      
+   less than 744.959 Å diameter at P/Po = 0.973315403:    0.229491 cm³/g   
+                                                                           
+                              t-Plot micropore volume:    -0.004135 cm³/g  
+                                                                           
+            BJH Adsorption cumulative volume of pores                      
+             between 17.000 Å and 3000.000 Å diameter:    0.239881 cm³/g   
+                                                                           
+            BJH Desorption cumulative volume of pores                      
+             between 17.000 Å and 3000.000 Å diameter:    0.238586 cm³/g   
+                                                                           
+
+                          Pore Size
+
+  Adsorption average pore width (4V/A by BET):    82.0149 Å  
+                                                             
+  Desorption average pore width (4V/A by BET):    84.5285 Å  
+                                                             
+  BJH Adsorption average pore diameter (4V/A):    71.509 Å   
+                                                             
+  BJH Desorption average pore diameter (4V/A):    60.405 Å   
+                                                             
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                     Isotherm Tabular Report
+
+                               Quantity                           
+   Relative       Absolute     Adsorbed    Elapsed    Saturation  
+   Pressure       Pressure      (cm³/g      Time       Pressure   
+    (P/Po)         (mmHg)        STP)      (h:min)      (mmHg)    
+-----
+  1.#QNAN0000      1.#QNAN0      1.#QNB      01:06    710.563965  
+  0.058601099     41.635033     22.3034      01:22      1.#QNAN0  
+  0.077477307     55.045052     23.5106      01:25      1.#QNAN0  
+  0.119013052     84.551773     25.7953      01:30      1.#QNAN0  
+  0.139836991     99.343811     26.8533      01:33      1.#QNAN0  
+  0.159816017    113.534157     27.8414      01:37      1.#QNAN0  
+  0.199155893    141.477341     29.7408      01:41      1.#QNAN0  
+  0.294146539    208.949738     34.3254      01:46      1.#QNAN0  
+  0.351228913    249.491547     37.2425      01:50      1.#QNAN0  
+  0.449654652    319.393372     42.7946      01:56      1.#QNAN0  
+  0.548977774    389.923737     49.3765      02:03      1.#QNAN0  
+  0.749669520    532.419678     68.4847      02:16      1.#QNAN0  
+  0.838502170    595.466248     81.4854      02:26      1.#QNAN0  
+  0.902511393    640.876526     95.4181      02:36      1.#QNAN0  
+  0.939088285    666.797058    108.8051      02:47      1.#QNAN0  
+  0.962620574    683.456848    122.7603      02:57      1.#QNAN0  
+  0.975165400    692.318726    134.4696      03:06      1.#QNAN0  
+  1.#QNAN0000      1.#QNAN0      1.#QNB      03:08    709.939819  
+  0.981812905    697.028076    143.9531      03:15      1.#QNAN0  
+  0.985764019    699.833130    151.0359      03:22      1.#QNAN0  
+  0.973315403    690.995361    148.3651      03:25      1.#QNAN0  
+  0.963214174    683.824097    142.8159      03:30      1.#QNAN0  
+  0.941631001    668.501343    128.6785      03:43      1.#QNAN0  
+  0.906866814    643.820862    111.1584      03:57      1.#QNAN0  
+  0.829922125    589.194763     90.4546      04:12      1.#QNAN0  
+  0.743542664    527.870544     78.4206      04:22      1.#QNAN0  
+  0.542654897    385.252319     61.9784      04:33      1.#QNAN0  
+  0.337938805    239.916214     37.6908      04:49      1.#QNAN0  
+  0.137551568     97.653336     27.5559      04:57      1.#QNAN0  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+Isotherm Linear Plot
+
+
+000-068_MoS2_NS(sodio) - Adsorption
+Relative Pressure (P/Po)	Quantity Adsorbed (cm³/g STP)
+0.0586011       	 22.3034
+0.0774773       	 23.5106
+0.119013        	 25.7953
+0.139837        	 26.8533
+0.159816        	 27.8414
+0.199156        	 29.7408
+0.294147        	 34.3254
+0.351229        	 37.2425
+0.449655        	 42.7946
+0.548978        	 49.3765
+0.74967         	 68.4847
+0.838502        	 81.4854
+0.902511        	 95.4181
+0.939088        	 108.805
+0.962621        	 122.76
+0.975165        	 134.47
+0.981813        	 143.953
+0.985764        	 151.036
+
+000-068_MoS2_NS(sodio) - Desorption
+Relative Pressure (P/Po)	Quantity Adsorbed (cm³/g STP)
+0.985764        	 151.036
+0.973315        	 148.365
+0.963214        	 142.816
+0.941631        	 128.679
+0.906867        	 111.158
+0.829922        	 90.4546
+0.743543        	 78.4206
+0.542655        	 61.9784
+0.337939        	 37.6908
+0.137552        	 27.5559
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+Isotherm Log Plot
+
+
+000-068_MoS2_NS(sodio) - Adsorption
+Relative Pressure (P/Po)	Quantity Adsorbed (cm³/g STP)
+0.0586011       	 22.3034
+0.0774773       	 23.5106
+0.119013        	 25.7953
+0.139837        	 26.8533
+0.159816        	 27.8414
+0.199156        	 29.7408
+0.294147        	 34.3254
+0.351229        	 37.2425
+0.449655        	 42.7946
+0.548978        	 49.3765
+0.74967         	 68.4847
+0.838502        	 81.4854
+0.902511        	 95.4181
+0.939088        	 108.805
+0.962621        	 122.76
+0.975165        	 134.47
+0.981813        	 143.953
+0.985764        	 151.036
+
+000-068_MoS2_NS(sodio) - Desorption
+Relative Pressure (P/Po)	Quantity Adsorbed (cm³/g STP)
+0.985764        	 151.036
+0.973315        	 148.365
+0.963214        	 142.816
+0.941631        	 128.679
+0.906867        	 111.158
+0.829922        	 90.4546
+0.743543        	 78.4206
+0.542655        	 61.9784
+0.337939        	 37.6908
+0.137552        	 27.5559
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                      BET Surface Area Report
+
+                BET Surface Area:    108.5982 ± 0.6097 m²/g         
+                           Slope:    0.039589 ± 0.000223 g/cm³ STP  
+                     Y-Intercept:    0.000497 ± 0.000030 g/cm³ STP  
+                               C:    80.684340                      
+                              Qm:    24.9467 cm³/g STP              
+         Correlation Coefficient:    0.9999524                      
+  Molecular Cross-Sectional Area:    0.1620 nm²                     
+
+
+                 Quantity                
+   Relative      Adsorbed                
+   Pressure       (cm³/g     1/[Q(Po/P   
+    (P/Po)         STP)        - 1)]     
+---
+  0.058601099     22.3034      0.002791  
+  0.077477307     23.5106      0.003572  
+  0.119013052     25.7953      0.005237  
+  0.159816017     27.8414      0.006832  
+  0.199155893     29.7408      0.008362  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+BET Surface Area Plot
+
+
+000-068_MoS2_NS(sodio)
+Relative Pressure (P/Po)	1/[Q(Po/P - 1)]
+0.0586011       	 0.00279101
+0.0774773       	 0.00357219
+0.119013        	 0.00523701
+0.159816        	 0.00683211
+0.199156        	 0.00836165
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                      Langmuir Surface Area Report
+
+           Langmuir Surface Area:    150.2437 ± 5.5394 m²/g              
+                           Slope:    0.028974 ± 0.001068 g/cm³ STP       
+                     Y-Intercept:    0.736183 ± 0.101139 mmHg·g/cm³ STP  
+                               b:    0.039357 1/mmHg                     
+                              Qm:    34.5134 cm³/g STP                   
+         Correlation Coefficient:    0.997967                            
+  Molecular Cross-Sectional Area:    0.1620 nm²                          
+
+
+                Quantity                 
+                Adsorbed        P/Q      
+   Pressure      (cm³/g     (mmHg·g/cm³  
+    (mmHg)        STP)         STP)      
+---
+   41.635033     22.3034          1.867  
+   55.045052     23.5106          2.341  
+   84.551773     25.7953          3.278  
+  113.534157     27.8414          4.078  
+  141.477341     29.7408          4.757  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+Langmuir Surface Area Plot
+
+
+000-068_MoS2_NS(sodio)
+Pressure (mmHg)	P/Q (mmHg·g/cm³ STP)
+41.635          	 1.86676
+55.0451         	 2.34129
+84.5518         	 3.27779
+113.534         	 4.07789
+141.477         	 4.75701
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                            Freundlich Reports
+
+  Primary Data                                                             
+  4057-  At least two data points are needed for Freundlich calculations.  
+  Primary Data                                                             
+  4057-  At least two data points are needed for Freundlich calculations.  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                            Temkin Reports
+
+  Primary Data                                                         
+  4058-  At least two data points are needed for Temkin calculations.  
+  Primary Data                                                         
+  4058-  At least two data points are needed for Temkin calculations.  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                            t-Plot Report
+
+                Micropore Volume:    -0.004135 cm³/g                  
+                  Micropore Area:    *                                
+           External Surface Area:    115.0164 m²/g                    
+                           Slope:    7.435765 ± 0.053302 cm³/g·Å STP  
+                     Y-Intercept:    -2.673231 ± 0.237437 cm³/g STP   
+         Correlation Coefficient:    0.999974                         
+  Surface Area Correction Factor:    1.000                            
+       Density Conversion Factor:    0.0015468                        
+        Total Surface Area (BET):    108.5982 m²/g                    
+                 Thickness Range:    3.5000 Å to 5.0000 Å             
+              Thickness Equation:    Harkins and Jura                 
+
+
+  t = [ 13.99 / ( 0.034 - log(P/Po) ) ] ^ 0.5  
+
+
+                                Quantity  
+   Relative      Statistical    Adsorbed  
+   Pressure       Thickness      (cm³/g   
+    (P/Po)           (Å)          STP)    
+---
+  0.077477307         3.4957     23.5106  
+  0.139836991         3.9684     26.8533  
+  0.199155893         4.3634     29.7408  
+  0.294146539         4.9741     34.3254  
+  0.449654652         6.0587     42.7946  
+
+
+* The micropore area is not reported because either the micropore volume is negative or the calculated external surface area is larger than the total surface area.
+
+
+
+
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+t-Plot
+Harkins and Jura
+
+000-068_MoS2_NS(sodio)
+Thickness (Å)	Quantity Adsorbed (cm³/g STP)
+3.96835         	 26.8533
+4.36337         	 29.7408
+4.97413         	 34.3254
+
+Not Fitted Points
+Thickness (Å)	Quantity Adsorbed (cm³/g STP)
+3.49574         	 23.5106
+6.05867         	 42.7946
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                                Alpha-S Method
+
+  Primary Data                                                                 
+  4029-  At least two fitted data points are needed for Alpha-S calculations.  
+  4029-  At least two fitted data points are needed for Alpha-S calculations.  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-068_MoS2_NS(sodio)    
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella_Ilum            
+       File:    C:\2020\DATA\000-068.SMP  
+
+            Started:    19/11/2024 14:45:27       Analysis Adsorptive:    N2                    
+          Completed:    19/11/2024 20:16:23       Analysis Bath Temp.:    -196.369 °C           
+        Report Time:    21/11/2024 9:41:12         Thermal Correction:    No                    
+        Sample Mass:    0.3787 g                      Warm Free Space:    26.7327 cm³ Measured  
+    Cold Free Space:    83.7719 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+             f-Ratio Method
+
+  Primary Data                           
+  A reference file has not been chosen.  
+

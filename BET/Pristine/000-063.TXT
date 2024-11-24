@@ -1,0 +1,625 @@
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+ Summary Report
+
+
+                           Surface Area
+
+  Single point surface area at P/Po = 0.199797486:    5.2826 m²/g  
+                                                                   
+                                 BET Surface Area:    5.1610 m²/g  
+                                                                   
+                            Langmuir Surface Area:    6.8710 m²/g  
+                                                                   
+                            t-Plot Micropore Area:    3.9625 m²/g  
+                                                                   
+                     t-Plot External Surface Area:    1.1985 m²/g  
+                                                                   
+  BJH Adsorption cumulative surface area of pores                  
+         between 17.000 Å and 3000.000 Å diameter:    3.030 m²/g   
+                                                                   
+  BJH Desorption cumulative surface area of pores                  
+         between 17.000 Å and 3000.000 Å diameter:    3.8699 m²/g  
+                                                                   
+
+                               Pore Volume
+
+   Single point adsorption total pore volume of pores                     
+  less than 1270.852 Å diameter at P/Po = 0.984529706:    0.022290 cm³/g  
+                                                                          
+   Single point desorption total pore volume of pores                     
+   less than 613.854 Å diameter at P/Po = 0.967462453:    0.020493 cm³/g  
+                                                                          
+                              t-Plot micropore volume:    0.001840 cm³/g  
+                                                                          
+            BJH Adsorption cumulative volume of pores                     
+             between 17.000 Å and 3000.000 Å diameter:    0.024447 cm³/g  
+                                                                          
+            BJH Desorption cumulative volume of pores                     
+             between 17.000 Å and 3000.000 Å diameter:    0.024464 cm³/g  
+                                                                          
+
+                          Pore Size
+
+  Adsorption average pore width (4V/A by BET):    172.7617 Å  
+                                                              
+  Desorption average pore width (4V/A by BET):    158.8310 Å  
+                                                              
+  BJH Adsorption average pore diameter (4V/A):    322.689 Å   
+                                                              
+  BJH Desorption average pore diameter (4V/A):    252.871 Å   
+                                                              
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                     Isotherm Tabular Report
+
+                               Quantity                           
+   Relative       Absolute     Adsorbed    Elapsed    Saturation  
+   Pressure       Pressure      (cm³/g      Time       Pressure   
+    (P/Po)         (mmHg)        STP)      (h:min)      (mmHg)    
+-----
+  1.#QNAN0000      1.#QNAN0      1.#QNB      01:05    713.292908  
+  0.067213998     47.943268      1.4108      01:14      1.#QNAN0  
+  0.080002356     57.065113      1.4520      01:15      1.#QNAN0  
+  0.119959982     85.566605      1.4901      01:17      1.#QNAN0  
+  0.139959752     99.832298      1.5184      01:18      1.#QNAN0  
+  0.159944761    114.087463      1.5200      01:20      1.#QNAN0  
+  0.199797486    142.514130      1.5165      01:21      1.#QNAN0  
+  0.300212547    214.139481      1.4418      01:23      1.#QNAN0  
+  0.370774078    264.470520      1.3847      01:24      1.#QNAN0  
+  0.470741810    335.776794      1.3397      01:25      1.#QNAN0  
+  0.570447404    406.896088      1.3265      01:27      1.#QNAN0  
+  0.744829010    531.281250      1.6588      01:29      1.#QNAN0  
+  0.839665049    598.927124      2.5147      01:30      1.#QNAN0  
+  0.904693850    645.311707      4.1091      01:32      1.#QNAN0  
+  0.940114444    670.576965      6.0888      01:33      1.#QNAN0  
+  0.963867821    687.520081      8.7743      01:35      1.#QNAN0  
+  0.977062259    696.931580     11.6928      01:37      1.#QNAN0  
+  0.984529706    702.258057     14.4107      01:39      1.#QNAN0  
+  0.986478435    703.648071     15.7479      01:41      1.#QNAN0  
+  0.967462453    690.084106     13.2487      01:43      1.#QNAN0  
+  0.948879104    676.828735      9.7195      01:46      1.#QNAN0  
+  0.924258922    659.267334      6.6851      01:48      1.#QNAN0  
+  0.906119843    646.328857      5.2376      01:49      1.#QNAN0  
+  0.839978228    599.150513      2.9544      01:51      1.#QNAN0  
+  0.721551135    514.677307      1.7904      01:53      1.#QNAN0  
+  0.548392598    391.164551      1.5493      01:54      1.#QNAN0  
+  0.329432488    234.981857      1.5967      01:57      1.#QNAN0  
+  0.141295845    100.785324      1.6527      02:00      1.#QNAN0  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+Isotherm Linear Plot
+
+
+000-063_Pristini_3 - Adsorption
+Relative Pressure (P/Po)	Quantity Adsorbed (cm³/g STP)
+0.067214        	 1.4108
+0.0800024       	 1.45196
+0.11996         	 1.49007
+0.13996         	 1.51836
+0.159945        	 1.51998
+0.199797        	 1.51649
+0.300213        	 1.44178
+0.370774        	 1.38472
+0.470742        	 1.33973
+0.570447        	 1.32654
+0.744829        	 1.65876
+0.839665        	 2.51474
+0.904694        	 4.10912
+0.940114        	 6.08877
+0.963868        	 8.77427
+0.977062        	 11.6928
+0.98453         	 14.4107
+0.986478        	 15.7479
+
+000-063_Pristini_3 - Desorption
+Relative Pressure (P/Po)	Quantity Adsorbed (cm³/g STP)
+0.986478        	 15.7479
+0.967462        	 13.2487
+0.948879        	 9.71947
+0.924259        	 6.68511
+0.90612         	 5.23765
+0.839978        	 2.95441
+0.721551        	 1.79044
+0.548393        	 1.54935
+0.329432        	 1.5967
+0.141296        	 1.65275
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+Isotherm Log Plot
+
+
+000-063_Pristini_3 - Adsorption
+Relative Pressure (P/Po)	Quantity Adsorbed (cm³/g STP)
+0.067214        	 1.4108
+0.0800024       	 1.45196
+0.11996         	 1.49007
+0.13996         	 1.51836
+0.159945        	 1.51998
+0.199797        	 1.51649
+0.300213        	 1.44178
+0.370774        	 1.38472
+0.470742        	 1.33973
+0.570447        	 1.32654
+0.744829        	 1.65876
+0.839665        	 2.51474
+0.904694        	 4.10912
+0.940114        	 6.08877
+0.963868        	 8.77427
+0.977062        	 11.6928
+0.98453         	 14.4107
+0.986478        	 15.7479
+
+000-063_Pristini_3 - Desorption
+Relative Pressure (P/Po)	Quantity Adsorbed (cm³/g STP)
+0.986478        	 15.7479
+0.967462        	 13.2487
+0.948879        	 9.71947
+0.924259        	 6.68511
+0.90612         	 5.23765
+0.839978        	 2.95441
+0.721551        	 1.79044
+0.548393        	 1.54935
+0.329432        	 1.5967
+0.141296        	 1.65275
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                       BET Surface Area Report
+
+                BET Surface Area:    5.1610 ± 0.1615 m²/g            
+                           Slope:    0.851816 ± 0.026154 g/cm³ STP   
+                     Y-Intercept:    -0.008333 ± 0.003525 g/cm³ STP  
+                               C:    -101.226283                     
+                              Qm:    1.1856 cm³/g STP                
+         Correlation Coefficient:    0.9985889                       
+  Molecular Cross-Sectional Area:    0.1620 nm²                      
+
+
+                 Quantity                
+   Relative      Adsorbed                
+   Pressure       (cm³/g     1/[Q(Po/P   
+    (P/Po)         STP)        - 1)]     
+---
+  0.067213998      1.4108      0.051076  
+  0.080002356      1.4520      0.059891  
+  0.119959982      1.4901      0.091480  
+  0.159944761      1.5200      0.125264  
+  0.199797486      1.5165      0.164645  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+BET Surface Area Plot
+
+
+000-063_Pristini_3
+Relative Pressure (P/Po)	1/[Q(Po/P - 1)]
+0.067214        	 0.0510756
+0.0800024       	 0.0598911
+0.11996         	 0.0914803
+0.159945        	 0.125264
+0.199797        	 0.164645
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                      Langmuir Surface Area Report
+
+           Langmuir Surface Area:    6.8710 ± 0.0587 m²/g                
+                           Slope:    0.633562 ± 0.005414 g/cm³ STP       
+                     Y-Intercept:    3.286128 ± 0.520399 mmHg·g/cm³ STP  
+                               b:    0.192799 1/mmHg                     
+                              Qm:    1.5784 cm³/g STP                    
+         Correlation Coefficient:    0.999890                            
+  Molecular Cross-Sectional Area:    0.1620 nm²                          
+
+
+                Quantity                 
+                Adsorbed        P/Q      
+   Pressure      (cm³/g     (mmHg·g/cm³  
+    (mmHg)        STP)         STP)      
+---
+   47.943268      1.4108         33.983  
+   57.065113      1.4520         39.302  
+   85.566605      1.4901         57.425  
+  114.087463      1.5200         75.059  
+  142.514130      1.5165         93.976  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+Langmuir Surface Area Plot
+
+
+000-063_Pristini_3
+Pressure (mmHg)	P/Q (mmHg·g/cm³ STP)
+47.9433         	 33.9831
+57.0651         	 39.3022
+85.5666         	 57.4246
+114.087         	 75.0586
+142.514         	 93.9761
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                            Freundlich Reports
+
+  Primary Data                                                             
+  4057-  At least two data points are needed for Freundlich calculations.  
+  Primary Data                                                             
+  4057-  At least two data points are needed for Freundlich calculations.  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                            Temkin Reports
+
+  Primary Data                                                         
+  4058-  At least two data points are needed for Temkin calculations.  
+  Primary Data                                                         
+  4058-  At least two data points are needed for Temkin calculations.  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                            t-Plot Report
+
+                Micropore Volume:    0.001840 cm³/g                   
+                  Micropore Area:    3.9625 m²/g                      
+           External Surface Area:    1.1985 m²/g                      
+                           Slope:    0.077483 ± 0.043531 cm³/g·Å STP  
+                     Y-Intercept:    1.189443 ± 0.172668 cm³/g STP    
+         Correlation Coefficient:    0.871832                         
+  Surface Area Correction Factor:    1.000                            
+       Density Conversion Factor:    0.0015468                        
+        Total Surface Area (BET):    5.1610 m²/g                      
+                 Thickness Range:    3.5000 Å to 5.0000 Å             
+              Thickness Equation:    Harkins and Jura                 
+
+
+  t = [ 13.99 / ( 0.034 - log(P/Po) ) ] ^ 0.5  
+
+
+                                Quantity  
+   Relative      Statistical    Adsorbed  
+   Pressure       Thickness      (cm³/g   
+    (P/Po)           (Å)          STP)    
+---
+  0.080002356         3.5172      1.4520  
+  0.139959752         3.9692      1.5184  
+  0.199797486         4.3675      1.5165  
+  0.300212547         5.0136      1.4418  
+  0.470741810         6.2234      1.3397  
+
+
+
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+t-Plot
+Harkins and Jura
+
+000-063_Pristini_3
+Thickness (Å)	Quantity Adsorbed (cm³/g STP)
+3.5172          	 1.45196
+3.9692          	 1.51836
+4.36753         	 1.51649
+
+Not Fitted Points
+Thickness (Å)	Quantity Adsorbed (cm³/g STP)
+5.01359         	 1.44178
+6.22336         	 1.33973
+
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+                                Alpha-S Method
+
+  Primary Data                                                                 
+  4029-  At least two fitted data points are needed for Alpha-S calculations.  
+  4029-  At least two fitted data points are needed for Alpha-S calculations.  
+
+
+
+
+
+  ASAP 2020 V3.04 E    Unit 1    Serial #: 1151    Page  1  
+
+     Sample:    000-063_Pristini_3        
+   Operator:    Danilo Janes              
+  Submitter:    Raphaella Ilum            
+       File:    C:\2020\DATA\000-063.SMP  
+
+            Started:    04/11/2024 12:02:33       Analysis Adsorptive:    N2                    
+          Completed:    04/11/2024 14:19:03       Analysis Bath Temp.:    -196.333 °C           
+        Report Time:    04/11/2024 15:21:19        Thermal Correction:    No                    
+        Sample Mass:    0.1463 g                      Warm Free Space:    27.0045 cm³ Measured  
+    Cold Free Space:    85.6955 cm³            Equilibration Interval:    5 s                   
+  Low Pressure Dose:    None                          Automatic Degas:    Yes                   
+
+
+
+
+
+
+             f-Ratio Method
+
+  Primary Data                           
+  A reference file has not been chosen.  
+
