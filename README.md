@@ -13,7 +13,7 @@ A emergência climática global aponta para a necessidade de pensar em alternati
 Desenvolver eletrocatalisadores heteroestruturados em arquiteturas esféricas ocas para a quebra da molécula da água, visando a produção e armazenamento de hidrogênio verde.
 
 ⚗️ **Metodologia**
-![METODOLOGIA](IMAGENS/METODOLOGIA.png)
+![METODOLOGIA](IMAGENS/HCS@MoS2.png)
 
 🔬 **Caracterizações**
 
