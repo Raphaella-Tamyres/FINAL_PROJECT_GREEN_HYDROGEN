@@ -2,7 +2,7 @@
 
 ![Nanocompósito](IMAGENS/HCS@MoS2.png)
 
-**Projeto Final** do curso de **Bacharelado em Ciência e Tecnologia** na **Ilum - Escola de Ciência**, integrada pelo Centro Nacional de Pesquisa em Energia e Materiais.
+**Projeto Final** do curso de **Bacharelado em Ciência e Tecnologia** na **Ilum - Escola de Ciência**, integrada ao **Centro Nacional de Pesquisa em Energia e Materiais (CNPEM)**.
 
 ---
 
