@@ -51,9 +51,9 @@ Desenvolver eletrocatalisadores heteroestruturados em arquiteturas esféricas oc
 ## 📊 Estrutura do Repositório
 
 📂 [FINAL_PROJECT_GREEN_HYDROGEN/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main) <br>
-├── 📁 [AFM/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/AFM) <br>
-├── 📁 [BET/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET) <br>
-    ├── 📁 [BET/MoS2-1_20h BM](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-1_20h%20BM) <br>
+─ 📁 [AFM/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/AFM) <br>
+─ 📁 [BET/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET) <br>
+    ─ 📁 [BET/MoS2-1_20h BM](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-1_20h%20BM) <br>
     ├── 📁 [BET/MoS2-2_5h BM](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-2_5h%20BM) <br>
     ├── 📁 [BET/MoS2-NS (amonio)](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-NS%20(amonio)) <br>
     ├── 📁 [BET/MoS2-NS (sodio)](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-NS%20(sodio)) <br>
