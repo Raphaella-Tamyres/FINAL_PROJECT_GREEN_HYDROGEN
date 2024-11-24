@@ -53,14 +53,12 @@ Desenvolver eletrocatalisadores heteroestruturados em arquiteturas esféricas oc
 📂 [FINAL_PROJECT_GREEN_HYDROGEN/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main) <br>
 ├── 📁 [AFM/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/AFM) <br>
 ├── 📁 [BET/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET) <br>
-
         ├── 📁 [BET/MoS2-1_20h BM](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-1_20h%20BM) <br>
         ├── 📁 [BET/MoS2-2_5h BM](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-2_5h%20BM) <br>
         ├── 📁 [BET/MoS2-NS (amonio)](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-NS%20(amonio)) <br>
         ├── 📁 [BET/MoS2-NS (sodio)](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-NS%20(sodio)) <br>
         ├── 📁 [BET/MoS2_UP](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2_UP) <br>
         ├── 📁 [BET/Pristine](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/Pristine) <br>
-        
 ├── 📁 [DLS/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/DLS) <br>
 ├── 📁 [DLS_MEV/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/DLS_MEV) <br>
 ├── 📁 [DRX/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/DRX) <br>
