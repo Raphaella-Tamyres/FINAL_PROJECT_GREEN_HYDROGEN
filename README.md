@@ -54,17 +54,31 @@ Desenvolver eletrocatalisadores heteroestruturados em arquiteturas esféricas oc
 ├── 📁 [AFM/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/AFM) <br>
 ├── 📁 [BET/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET) <br>
 
-        ├── 📁 [BET/MoS2-1_20h BM](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-1_20h%20BM) <br>
-        ├── 📁 [BET/MoS2-2_5h BM](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-2_5h%20BM) <br>
-        ├── 📁 [BET/MoS2-NS (amonio)](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-NS%20(amonio)) <br>
-        ├── 📁 [BET/MoS2-NS (sodio)](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-NS%20(sodio)) <br>
-        ├── 📁 [BET/MoS2_UP](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2_UP) <br>
-        ├── 📁 [BET/Pristine](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/Pristine) <br>
+        ├── 📁 [BET/MoS2-1_20h BM/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-1_20h%20BM) <br>
+        ├── 📁 [BET/MoS2-2_5h BM/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-2_5h%20BM) <br>
+        ├── 📁 [BET/MoS2-NS (amonio)/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-NS%20(amonio)) <br>
+        ├── 📁 [BET/MoS2-NS (sodio)/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2-NS%20(sodio)) <br>
+        ├── 📁 [BET/MoS2_UP/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/MoS2_UP) <br>
+        ├── 📁 [BET/Pristine/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET/Pristine) <br>
         
 ├── 📁 [DLS/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/DLS) <br>
 ├── 📁 [DLS_MEV/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/DLS_MEV) <br>
 ├── 📁 [DRX/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/DRX) <br>
 ├── 📁 [ENSAIO ELETROQUÍMICO/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO) <br>
+
+        ├── 📁 [ENSAIO ELETROQUÍMICO/HCS 500C/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/HCS%20500C) <br>
+        ├── 📁 [ENSAIO ELETROQUÍMICO/HCS@MoS2 (1)/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/HCS%40MoS2%20(1)) <br>
+        ├── 📁 [ENSAIO ELETROQUÍMICO/HCS@MoS2(2)/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/HCS%40MoS2(2)) <br>
+        ├── 📁 [ENSAIO ELETROQUÍMICO/HCS@MoS2 (2) TT/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/HCS%40MoS2%20(2)%20TT) <br>
+        ├── 📁 [ENSAIO ELETROQUÍMICO/HCS@MoS2 (4)/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/HCS%40MoS2%20(4)) <br>
+        ├── 📁 [ENSAIO ELETROQUÍMICO/Hollow MoS2/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/Hollow%20MoS2) <br>
+        ├── 📁 [ENSAIO ELETROQUÍMICO/MoS2 - Pristine/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/MoS2%20-%20Pristine) <br>
+        ├── 📁 [ENSAIO ELETROQUÍMICO/MoS2 BM/MoS2 NS amônio/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/MoS2%20BM) <br>
+        ├── 📁 [ENSAIO ELETROQUÍMICO/MoS2 NS sódio/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/MoS2%20NS%20am%C3%B4nio) <br>
+        ├── 📁 [ENSAIO ELETROQUÍMICO/MoS2 UP/Papel pirolisado/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/MoS2%20NS%20s%C3%B3dio) <br>
+        ├── 📁 [ENSAIO ELETROQUÍMICO/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/MoS2%20UP) <br>
+        ├── 📁 [ENSAIO ELETROQUÍMICO/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO/Papel%20pirolisado) <br>
+
 ├── 📁 [FTIR/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/FTIR) <br>
 ├── 📁 [MEV/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/MEV) <br>
 ├── 📁 [RAMAN/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/RAMAN) <br>
