@@ -1,6 +1,6 @@
 # ESFERAS OCAS HÍBRIDAS DE CARBONO E DISSULFETO DE MOLIBDÊNIO SUPORTADAS POR PAPEL PIROLISADO PARA ATIVIDADE CATALÍTICA EM PRODUÇÃO E ARMAZENAMENTO DE HIDROGÊNIO VERDE
 
-%![Nanocompósito](IMAGENS/HCS@MoS2.png)
+![Nanocompósito](IMAGENS/HCS@MoS2.png)
 
 **Projeto Final** do curso de **Bacharelado em Ciência e Tecnologia** na **Ilum - Escola de Ciência**, integrada ao **Centro Nacional de Pesquisa em Energia e Materiais (CNPEM)**.
 
@@ -13,7 +13,7 @@ A emergência climática global aponta para a necessidade de pensar em alternati
 Desenvolver eletrocatalisadores heteroestruturados em arquiteturas esféricas ocas para a quebra da molécula da água, visando a produção e armazenamento de hidrogênio verde.
 
 ⚗️ **Metodologia**
-![METODOLOGIA](IMAGENS/METODOLOGIA.png)
+
 
 🔬 **Caracterizações**
 
