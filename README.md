@@ -44,15 +44,20 @@ Desenvolver eletrocatalisadores heteroestruturados em arquiteturas esféricas oc
 
 Estrutura do projeto com links diretos para as pastas:
 
-- [📁 AFM](AFM/) - Dados brutos e tratados no Jupyter Notebooks
-- [📁 BET](BET/) - Dados brutos e tratados no Jupyter Notebooks
-- [📁 DLS](DLS/) - Dados brutos e tratados no Jupyter Notebooks
-- [📁 DLS_MEV](DLS_MEV/) - Dados brutos e tratados no Jupyter Notebooks
-- [📁 DRX](DRX/) - Dados brutos e tratados no Jupyter Notebooks
-- [📁 ENSAIO ELETROQUÍMICO](ENSAIO%20ELETROQUÍMICO/) - Dados brutos e tratados no Jupyter Notebooks
-- [📁 FTIR](FTIR/) - Dados brutos e tratados no Jupyter Notebooks
-- [📁 MEV](MEV/) - Dados brutos e tratados no Jupyter Notebooks
-- [📁 RAMAN](RAMAN/) - Dados brutos e tratados no Jupyter Notebooks
-- [📁 TGA](TGA/) - Dados brutos e tratados no Jupyter Notebooks
-- [📁 XPS](XPS/) - Dados brutos e tratados no Jupyter Notebooks
-- [📄 README.md](README.md) - Este arquivo
+# 📂 FINAL_PROJECT_GREEN_HYDROGEN
+
+Estrutura do projeto com links diretos para cada pasta:
+
+- [📁 AFM](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/AFM) - Dados brutos e tratados no Jupyter Notebooks
+- [📁 BET](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET) - Dados brutos e tratados no Jupyter Notebooks
+- [📁 DLS](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/DLS) - Dados brutos e tratados no Jupyter Notebooks
+- [📁 DLS_MEV](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/DLS_MEV) - Dados brutos e tratados no Jupyter Notebooks
+- [📁 DRX](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/DRX) - Dados brutos e tratados no Jupyter Notebooks
+- [📁 ENSAIO ELETROQUÍMICO](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/ENSAIO%20ELETROQU%C3%8DMICO) - Dados brutos e tratados no Jupyter Notebooks
+- [📁 FTIR](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/FTIR) - Dados brutos e tratados no Jupyter Notebooks
+- [📁 MEV](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/MEV) - Dados brutos e tratados no Jupyter Notebooks
+- [📁 RAMAN](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/RAMAN) - Dados brutos e tratados no Jupyter Notebooks
+- [📁 TGA](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/TGA) - Dados brutos e tratados no Jupyter Notebooks
+- [📁 XPS](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/XPS) - Dados brutos e tratados no Jupyter Notebooks
+- [📄 README.md](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/README.md) - Este arquivo
+
