@@ -41,15 +41,15 @@ Desenvolver eletrocatalisadores heteroestruturados em arquiteturas esféricas oc
 
 ```bash
 📂 FINAL_PROJECT_GREEN_HYDROGEN/
-├── 📁 AFM/                # Dados brutos e tratados no Jupyter Notebooks
-├── 📁 BET/                # Dados brutos e tratados no Jupyter Notebooks
-├── 📁 DLS/                # Dados brutos e tratados no Jupyter Notebooks
-├── 📁 DLS_MEV/                # Dados brutos e tratados no Jupyter Notebooks
-├── 📁 DRX/                # Dados brutos e tratados no Jupyter Notebooks
-├── 📁 ENSAIO ELETROQUÍMICO/                # Dados brutos e tratados no Jupyter Notebooks
-├── 📁 FTIR/                # Dados brutos e tratados no Jupyter Notebooks
-├── 📁 MEV/                # Dados brutos e tratados no Jupyter Notebooks
-├── 📁 RAMAN/                # Dados brutos e tratados no Jupyter Notebooks
-├── 📁 TGA/                # Dados brutos e tratados no Jupyter Notebooks
-├── 📁 XPS/                # Dados brutos e tratados no Jupyter Notebooks
-└── 📄 README.md            # Este arquivo
+├── 📁 [AFM/](AFM/)                # Dados brutos e tratados no Jupyter Notebooks
+├── 📁 [BET/](BET/)                # Dados brutos e tratados no Jupyter Notebooks
+├── 📁 [DLS/](DLS/)                # Dados brutos e tratados no Jupyter Notebooks
+├── 📁 [DLS_MEV/](DLS_MEV/)        # Dados brutos e tratados no Jupyter Notebooks
+├── 📁 [DRX/](DRX/)                # Dados brutos e tratados no Jupyter Notebooks
+├── 📁 [ENSAIO ELETROQUÍMICO/](ENSAIO%20ELETROQUÍMICO/) # Dados brutos e tratados no Jupyter Notebooks
+├── 📁 [FTIR/](FTIR/)              # Dados brutos e tratados no Jupyter Notebooks
+├── 📁 [MEV/](MEV/)                # Dados brutos e tratados no Jupyter Notebooks
+├── 📁 [RAMAN/](RAMAN/)            # Dados brutos e tratados no Jupyter Notebooks
+├── 📁 [TGA/](TGA/)                # Dados brutos e tratados no Jupyter Notebooks
+├── 📁 [XPS/](XPS/)                # Dados brutos e tratados no Jupyter Notebooks
+└── 📄 [README.md](README.md)      # Este arquivo
