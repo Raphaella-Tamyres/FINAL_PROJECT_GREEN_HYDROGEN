@@ -42,6 +42,10 @@ Desenvolver eletrocatalisadores heteroestruturados em arquiteturas esféricas oc
 ![Seaborn](https://img.shields.io/badge/Seaborn-Data_Visualization-teal?logo=seaborn&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?logo=scikit-learn&logoColor=white)
 
+## ⭐ Resultados
+
+![RESULTADOS](IMAGENS/RESULTADOS.png)
+
 ---
 
 ## 📊 Estrutura do Repositório
