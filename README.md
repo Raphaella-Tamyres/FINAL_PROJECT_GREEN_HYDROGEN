@@ -39,7 +39,6 @@ Desenvolver eletrocatalisadores heteroestruturados em arquiteturas esféricas oc
 
 ## 📊 Estrutura do Repositório
 
-```bash
 📂 FINAL_PROJECT_GREEN_HYDROGEN/
 ├── 📁 [AFM/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/AFM)
 ├── 📁 [BET/](https://github.com/raphaella220046/FINAL_PROJECT_GREEN_HYDROGEN/tree/main/BET)
